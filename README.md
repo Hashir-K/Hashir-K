@@ -44,6 +44,7 @@ Beyond the realm of professional work, I build my own version of the digital wor
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+
 #
 
 ### 📊 2024
@@ -59,7 +60,7 @@ There will be at least some other project completed and released during 2024. Wh
 
 ### 📊 Stats
 
-![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashir-k&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hashir-K&theme=gruvbox&border_radius=4.5) -->
 
