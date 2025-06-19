@@ -44,6 +44,9 @@ I publish posts on a Medium blog about various topics relating to software devel
 
 #
 
+### 📊 2025
+Tap into the more creative side of development by exploring a variety of front-end technologies, refreshing my skills on those I've already used and harnessing those I have yet to learn- React and Avalon UI to name a few. And in the ever-shifting waters of the .NET space, I want to finally check out .NET MAUI.
+
 <!---### 📊 2024
 Currently, I have plans to release some kind of application that runs using Kotlin. At the moment, it is planned to be a simple, text-based adventure run on a Console App, but that is subject to change. As I will be overseas for most of June, I do not expect to resume work on Kotlin until the beginning of July so my realistic estimate would be a public release on Github between September-October.
 
