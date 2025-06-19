@@ -44,10 +44,10 @@ I publish posts on a Medium blog about various topics relating to software devel
 
 #
 
-### 📊 2024
+<!---### 📊 2024
 Currently, I have plans to release some kind of application that runs using Kotlin. At the moment, it is planned to be a simple, text-based adventure run on a Console App, but that is subject to change. As I will be overseas for most of June, I do not expect to resume work on Kotlin until the beginning of July so my realistic estimate would be a public release on Github between September-October.
 
-There will be at least some other project completed and released during 2024. Whatever form that takes, I am undecided as of yet. A personal website is the first thing that comes to mind, but we will see.
+There will be at least some other project completed and released during 2024. Whatever form that takes, I am undecided as of yet. A personal website is the first thing that comes to mind, but we will see. ---!>
 
 <!-- ### 📺 Latest Medium Blogs -->
 
