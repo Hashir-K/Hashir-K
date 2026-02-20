@@ -48,6 +48,9 @@ I publish posts on a Medium blog about various topics relating to software devel
 
 #
 
+📊 2026
+React and Ruby on Rails! I aim to have at least a handful of fully-completed and functional projects by the year's end.
+
 <!-- ### 📊 2025
 Tap into the more creative side of development by exploring a variety of front-end technologies, refreshing my skills on those I've already used and harnessing those I have yet to learn- React and Avalon UI to name a few. And in the ever-shifting waters of the .NET space, I want to finally check out .NET MAUI.---!>
 
