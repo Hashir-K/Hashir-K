@@ -1,4 +1,4 @@
-# 🏄‍♂️ Hashir Khan
+# ✍ Hashir Khan
 
 **`Digital Craftsman (Developer/Storyteller/Writer)`**
 
