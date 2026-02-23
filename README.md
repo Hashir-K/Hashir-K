@@ -1,6 +1,6 @@
 # ✍ Hashir Khan
 
-**`Digital Craftsman (Developer/Storyteller/Writer)`**
+**`Digital Craftsman (Developer|Aspiring AI/ML Engineer)`**
 
 I'm an full-stack developer travelling through the digital world one step at a time. I am focused primarily in the .Net space, and have had the privilege of working across various domains including logistics, business compliance and consultancy. 
 Beyond the realm of professional work, I build my own version of the digital world, usually by whatever spark of inspiration comes my way. All coding projects of my own are built from the ground up including the planning and designing aspects of software development. 
