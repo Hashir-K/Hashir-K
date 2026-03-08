@@ -65,11 +65,11 @@ There will be at least some other project completed and released during 2024. Wh
 
 #
 
-### 📊 Stats
+<!---### ### 📊 Stats
 
 ![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashir-k&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hashir-K&theme=gruvbox&border_radius=4.5) -->
-
+---!>
 #
 
