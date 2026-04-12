@@ -53,6 +53,11 @@ React and Ruby on Rails! I aim to have at least a handful of fully-completed and
 
 ### 📝 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Atomic Habits for Developers: 10 Small Changes That Made Me A Better C# Engineer](https://medium.com/@hashirkhanps/atomic-habits-for-developers-10-small-changes-that-made-me-a-better-c-engineer-60ec5058df24?source=rss-895f2e9a3147------2)
+- [Lifetime of Learning in Software Development](https://medium.com/@hashirkhanps/lifetime-of-learning-in-software-development-aa4d00ef237e?source=rss-895f2e9a3147------2)
+- [Building RESTful APIs in C# &lpar;.NET 8&rpar; — And Why They Still Matter](https://medium.com/@hashirkhanps/building-restful-apis-in-c-net-8-and-why-they-still-matter-fa39e28fd248?source=rss-895f2e9a3147------2)
+- [Clean Architecture in C#: Building Maintainable, Scalable Applications](https://medium.com/@hashirkhanps/clean-architecture-in-c-building-maintainable-scalable-applications-db0f4c2b38f6?source=rss-895f2e9a3147------2)
+- [Mastering Event-Driven Architecture with C# and .NET](https://medium.com/@hashirkhanps/mastering-event-driven-architecture-with-c-and-net-4c71214a1c03?source=rss-895f2e9a3147------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 📊 2025
