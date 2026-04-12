@@ -51,6 +51,10 @@ I publish posts on a Medium blog about various topics relating to software devel
 ### 📊 2026
 React and Ruby on Rails! I aim to have at least a handful of fully-completed and functional projects by the year's end.
 
+### 📝 Latest Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- ### 📊 2025
 Tap into the more creative side of development by exploring a variety of front-end technologies, refreshing my skills on those I've already used and harnessing those I have yet to learn- React and Avalon UI to name a few. And in the ever-shifting waters of the .NET space, I want to finally check out .NET MAUI.---!>
 
@@ -59,9 +63,6 @@ Currently, I have plans to release some kind of application that runs using Kotl
 
 There will be at least some other project completed and released during 2024. Whatever form that takes, I am undecided as of yet. A personal website is the first thing that comes to mind, but we will see. ---!>
 
-### 📝 Latest Medium Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
