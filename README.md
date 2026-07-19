@@ -48,8 +48,8 @@ I publish posts on a Medium blog about various topics relating to software devel
 
 #
 
-### 📊 2026
-React and Ruby on Rails! I aim to have at least a handful of fully-completed and functional projects by the year's end.
+<!-- ### 📊 2026
+React and Ruby on Rails! I aim to have at least a handful of fully-completed and functional projects by the year's end. ---!>
 
 ### 📝 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
