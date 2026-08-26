@@ -11,7 +11,7 @@ I publish posts on a Medium blog about various topics relating to software devel
 
 🧰 Languages & Tools
 
-<table> <tr> <td width="33%" valign="top">
+<table align="center"> <tr> <td width="33%" valign="top">
 
 💻 Languages
 
